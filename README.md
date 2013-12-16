@@ -1,4 +1,4 @@
-# Secret Santas
+# Secret Santas Kata
 
 Honoring a long standing tradition, my friends all play a Secret Santa game around Christmas time. We draw names and spend a week sneaking that person gifts and clues to our identity. On the last night of the game, we get together, have dinner, share stories, and, most importantly, try to guess who our Secret Santa was. It's a crazily fun way to enjoy each other's company during the holidays.
 
@@ -45,4 +45,8 @@ In **step 3**, if you feel like you can handle more, each name is associated to 
 	
 The rules are the same, but the output are now that you should send to each santa an email describing who they have to give a gift to.
 
-Have Coding
+Happy Coding
+
+## References
+
+The kata is almost a blatant copy paste from Ruby Quiz #2 
