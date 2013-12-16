@@ -45,7 +45,7 @@ So the input change and is now : `FIRST_NAME space FAMILY_NAME space <EMAIL_ADDR
 	Henry Schrader <henry.shrader@dea.us>
 	Marie Schrader <marieshrader723@yahoo.com>
 	
-The rules are the same, but the output is more realistic, as we all like self organized group, you should send to each santa an email describing who they have to give a gift to.
+The rules are the same, but the output is more realistic, as we all like self organized group, you should send to each santa an email describing who they have to give a gift to, thus bypassing the need for an organizer.
 
 Happy Coding
 
