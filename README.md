@@ -20,9 +20,9 @@ The format for these names is:
 
 `FIRST_NAME space FAMILY_NAME newline`. We'll keep things simple and say that people only have two names, so you don't have to worry about tricky names like Walter White Junior.
 
-First, in *step 1*, your script should choose a Secret Santa for every name in the list. Obviously, a person cannot be their own Secret Santa. 
+First, in **step 1**, your script should choose a Secret Santa for every name in the list. Obviously, a person cannot be their own Secret Santa. 
 
-Then, in *step 2*, my friends no longer allow people in the same family to be Santas for each other and your script should take this into account.
+Then, in **step 2**, my friends no longer allow people in the same family to be Santas for each other and your script should take this into account.
 
 The output should be something that can be easily mailed to the organizer so he can dispatch the information to the participant :
 
@@ -33,7 +33,7 @@ The output should be something that can be easily mailed to the organizer so he 
 
 Or any other structure than can easily shows the relationship between the people.
 
-In *step 3*, if you feel like you can handle more, each name is associated to an email address.
+In **step 3**, if you feel like you can handle more, each name is associated to an email address.
 
 	Walter White <walter@caltech.edu>
 	Skyler White <skyler@gmail.com>
