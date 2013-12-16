@@ -35,6 +35,8 @@ Or any other structure than can easily shows the relationship between the people
 
 In **step 3**, if you feel like you can handle more, each name is associated to an email address.
 
+So the output change and is now : `FIRST_NAME space FAMILY_NAME <EMAIL_ADDRESS>newline`
+
 	Walter White <walter@caltech.edu>
 	Skyler White <skyler@gmail.com>
 	Gustavo Fring <fring@polos.com>
